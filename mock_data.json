@@ -1,0 +1,80 @@
+[
+    {
+        "customer_name": "Sarah Johnson",
+        "agent_name": "Mike Chen",
+        "start_time": "2024-01-15T10:30:00",
+        "end_time": "2024-01-15T10:45:00",
+        "status": "completed",
+        "messages": [
+            {
+                "content": "Hi, I need help with my account billing issue.",
+                "timestamp": "2024-01-15T10:30:00",
+                "sender": "customer"
+            },
+            {
+                "content": "Hello Sarah! I'd be happy to help you with your billing concern. Let me look into your account right away.",
+                "timestamp": "2024-01-15T10:30:30",
+                "sender": "agent"
+            },
+            {
+                "content": "I was charged twice for my subscription this month and I'm really frustrated about this.",
+                "timestamp": "2024-01-15T10:31:00",
+                "sender": "customer"
+            },
+            {
+                "content": "I completely understand your frustration, and I sincerely apologize for this billing error. Let me resolve this immediately for you.",
+                "timestamp": "2024-01-15T10:31:30",
+                "sender": "agent"
+            },
+            {
+                "content": "Thank you so much! That was resolved quickly. I really appreciate your help.",
+                "timestamp": "2024-01-15T10:44:00",
+                "sender": "customer"
+            }
+        ]
+    },
+    {
+        "customer_name": "Robert Davis",
+        "agent_name": "Emily Rodriguez",
+        "start_time": "2024-01-15T11:00:00",
+        "end_time": "",
+        "status": "active",
+        "messages": [
+            {
+                "content": "This is absolutely ridiculous! Your service has been down for 3 hours!",
+                "timestamp": "2024-01-15T11:00:00",
+                "sender": "customer"
+            },
+            {
+                "content": "Look, I get that you're upset, but there's not much I can do about server issues.",
+                "timestamp": "2024-01-15T11:00:30",
+                "sender": "agent"
+            },
+            {
+                "content": "I demand to speak to your manager right now!",
+                "timestamp": "2024-01-15T11:01:00",
+                "sender": "customer"
+            }
+        ]
+    },
+    {
+        "customer_name": "Lisa Anderson",
+        "agent_name": "David Park",
+        "start_time": "2024-01-15T09:15:00",
+        "end_time": "2024-01-15T09:35:00",
+        "status": "completed",
+        "messages": [
+            {
+                "content": "Hi! I just wanted to say thank you for the excellent service last week.",
+                "timestamp": "2024-01-15T09:15:00",
+                "sender": "customer"
+            },
+            {
+                "content": "That's wonderful to hear! Thank you so much for taking the time to share this feedback. Is there anything else I can help you with today?",
+                "timestamp": "2024-01-15T09:15:30",
+                "sender": "agent"
+            }
+        ]
+    }
+]
+
