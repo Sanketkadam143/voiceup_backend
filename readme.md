@@ -1,6 +1,3 @@
-Here's a clean and professional `README.md` file based on the steps you provided:
-
----
 
 ````markdown
 # Chat Sentiment and Compliance Analysis
@@ -94,10 +91,3 @@ Your Chat Sentiment and Compliance Analysis project is ready to serve. 🎉
 * `load_data` - Custom Django management command to populate mock data
 
 ---
-
-## 📝 License
-
-This project is licensed. See the `LICENSE` file for more details (if applicable).
-
-
-```
